@@ -38,3 +38,7 @@ Por cada plano: qué sucede, qué movimiento real hay, tipo de plano, cómo cone
 
 ## Si no hay vídeo real
 Decirlo claramente. El Reel queda en borrador en Metricool y no se publica. Se entrega storyboard y lista de clips necesarios (con prompts de IA), y se avisa a la usuaria de qué falta y para cuándo.
+
+## Terminología obligatoria
+- El agua Kangen® (pH 8,5–9,5) es **agua ionizada**: el K8 filtra el agua del grifo y después la ioniza por electrólisis. Nunca llamarla solo «agua filtrada».
+- Solo el agua neutra (pH 7) es «agua filtrada».
