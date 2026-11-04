@@ -23,3 +23,11 @@ Límites diarios (autorización 4 nov 2026): 15 me gusta, 5 seguimientos, 10 res
 2026-11-04 | seguir | redesnatural | https://www.instagram.com/redesnatural/
 2026-11-04 | nota | revisadas las 10 publicaciones propias: 0 comentarios recibidos
 2026-11-04 | nota | descartadas: aguamiia (empresa de agua), nieves.ruizf (inmobiliaria), patribermejoj y mujicacruz (no seguir: temas de salud/opinión)
+2026-11-04 | like | carmenap2510 | https://www.instagram.com/p/DfPTF8ixP3R/
+2026-11-04 | comentario | carmenap2510 | https://www.instagram.com/p/DfPTF8ixP3R/ | "Café de especialidad y que admitan perros en plena calle Jovellanos, buena combinación. ¿Los fines de semana hace falta reservar?"
+2026-11-04 | seguir | domingobrunch_gijon | https://www.instagram.com/domingobrunch_gijon/
+2026-11-04 | like | domingobrunch_gijon | https://www.instagram.com/domingobrunch_gijon/p/DfJxCogjBcZ/
+2026-11-04 | like | albarico__ | https://www.instagram.com/p/DfPIDe2o7YV/
+2026-11-04 | like | najlaahc | https://www.instagram.com/p/DfP-kCWoHvJ/
+2026-11-04 | like | ecoinventos | https://www.instagram.com/p/DfRoMxMiEsL/
+2026-11-04 | nota | 2ª ejecución (manual 13:28): 0 comentarios nuevos en publicaciones propias; límites diarios completos (15 likes, 5 comentarios, 5 seguimientos). Paso 3 (colaboraciones) no ejecutado: no es lunes.
