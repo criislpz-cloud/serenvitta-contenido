@@ -31,3 +31,4 @@ Límites diarios (autorización 4 nov 2026): 15 me gusta, 5 seguimientos, 10 res
 2026-11-04 | like | najlaahc | https://www.instagram.com/p/DfP-kCWoHvJ/
 2026-11-04 | like | ecoinventos | https://www.instagram.com/p/DfRoMxMiEsL/
 2026-11-04 | nota | 2ª ejecución (manual 13:28): 0 comentarios nuevos en publicaciones propias; límites diarios completos (15 likes, 5 comentarios, 5 seguimientos). Paso 3 (colaboraciones) no ejecutado: no es lunes.
+2026-11-05 | nota | ronda NO ejecutada: la sesión de Instagram del navegador de la app era @remaxtrebolasturias, no @serenvitta.agua. 0 acciones.
