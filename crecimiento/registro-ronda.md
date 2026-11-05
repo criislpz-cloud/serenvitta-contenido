@@ -32,3 +32,16 @@ Límites diarios (autorización 4 nov 2026): 15 me gusta, 5 seguimientos, 10 res
 2026-11-04 | like | ecoinventos | https://www.instagram.com/p/DfRoMxMiEsL/
 2026-11-04 | nota | 2ª ejecución (manual 13:28): 0 comentarios nuevos en publicaciones propias; límites diarios completos (15 likes, 5 comentarios, 5 seguimientos). Paso 3 (colaboraciones) no ejecutado: no es lunes.
 2026-11-05 | nota | ronda NO ejecutada: la sesión de Instagram del navegador de la app era @remaxtrebolasturias, no @serenvitta.agua. 0 acciones.
+2026-11-05 | nota | 2ª ejecución a petición de Cristina desde Chrome (sesión @serenvitta.agua): revisadas las 11 publicaciones propias, 0 comentarios recibidos
+2026-11-05 | like | tu.oviedo | https://www.instagram.com/p/DfXPoqaCLF1/
+2026-11-05 | comentario | tu.oviedo | https://www.instagram.com/p/DfXPoqaCLF1/ | "Un amagüestu con este frío de noviembre es el mejor plan para salir en familia. ¿Sabéis si habrá sidra dulce para los peques?"
+2026-11-05 | like | chupchupchup.recetas | https://www.instagram.com/p/DfXBxGqsW_T/
+2026-11-05 | comentario | chupchupchup.recetas | https://www.instagram.com/p/DfXBxGqsW_T/ | "La ralladura de limón al final tiene que darle un punto muy fresco al guiso. ¿Con bonito saldría parecido si no encuentro tintorera?"
+2026-11-05 | like | segoorden_con_mamen | https://www.instagram.com/p/DfVO9FmjKRK/
+2026-11-05 | comentario | segoorden_con_mamen | https://www.instagram.com/p/DfVO9FmjKRK/ | "Yo lo tengo a medias: el verano ya está en cajas pero los jerséis siguen esperando. ¿Las cajas por temporada las guardas arriba del todo o debajo de la cama?"
+2026-11-05 | like | sophi___18 (con oncecafegijon) | https://www.instagram.com/p/DfW2ZCitzm_/
+2026-11-05 | comentario | sophi___18 (con oncecafegijon) | https://www.instagram.com/p/DfW2ZCitzm_/ | "Ese latte art en la taza azul da ganas de ir ya mismo. ¿Tienen también algo dulce casero para acompañar?"
+2026-11-05 | seguir | oncecafegijon | https://www.instagram.com/oncecafegijon/
+2026-11-05 | seguir | tu.oviedo | https://www.instagram.com/tu.oviedo/
+2026-11-05 | like | bitesofpaula | https://www.instagram.com/p/DfNbwZsx-tb/
+2026-11-05 | comentario | bitesofpaula | https://www.instagram.com/p/DfNbwZsx-tb/ | "Triturar las verduras y devolverlas a la cazuela deja el caldo espesito sin harina, buen truco. ¿Usas lenteja pardina o castellana?"
