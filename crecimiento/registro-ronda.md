@@ -45,3 +45,15 @@ Límites diarios (autorización 4 nov 2026): 15 me gusta, 5 seguimientos, 10 res
 2026-11-05 | seguir | tu.oviedo | https://www.instagram.com/tu.oviedo/
 2026-11-05 | like | bitesofpaula | https://www.instagram.com/p/DfNbwZsx-tb/
 2026-11-05 | comentario | bitesofpaula | https://www.instagram.com/p/DfNbwZsx-tb/ | "Triturar las verduras y devolverlas a la cazuela deja el caldo espesito sin harina, buen truco. ¿Usas lenteja pardina o castellana?"
+2026-11-05 | like | tengounplanbeatriz | https://www.instagram.com/p/DfUc9RLNPHo/
+2026-11-05 | nota | notificación de Instagram «Alguien está intentando iniciar sesión en Instagram. Dinos si eres tú» (hace ~1 h): no se ha tocado, avisada Cristina. sophi___18 respondió a nuestro comentario (no se contesta: fuera de autorización)
+2026-11-05 | like | bendacor | https://www.instagram.com/p/DfRvbquNEmI/
+2026-11-05 | like | naiarabosch | https://www.instagram.com/p/DfKcH3so5hJ/
+2026-11-05 | like | lamochilaenlaespalda | https://www.instagram.com/p/DfMTEdPuqTA/
+2026-11-05 | like | portobelloviajes | https://www.instagram.com/p/DfVfEwlKfDI/
+2026-11-05 | seguir | portobelloviajes | https://www.instagram.com/portobelloviajes/
+2026-11-05 | seguir | bendacor | https://www.instagram.com/bendacor/
+2026-11-05 | like | lidia_bastian_nutricion | https://www.instagram.com/p/DfVU0x3J-GA/
+2026-11-05 | like | the_white_method_by_blanca | https://www.instagram.com/p/DfUf7iQNecP/
+2026-11-05 | nota | descartadas: snapuccino__ y delicomida (tiendas/afiliados), salvi24 (contenido IA apocalíptico), gobasturias (política), empleogijon (institucional), envolvebioembalagens (Brasil), paz_padilla (famosa, publi), turecetanaturales y the_white_method_by_blanca (salud: no seguir), cityblock3d (genérica), bitesofpaula y segoorden_con_mamen (>50k, no seguir)
+2026-11-05 | nota | cierre 2ª ejecución: 12 likes, 5 comentarios, 4 seguimientos, 0 respuestas (sin comentarios recibidos). Sin bloqueos ni límites de Instagram.
