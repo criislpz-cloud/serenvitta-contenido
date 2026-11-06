@@ -57,3 +57,29 @@ Límites diarios (autorización 4 nov 2026): 15 me gusta, 5 seguimientos, 10 res
 2026-11-05 | like | the_white_method_by_blanca | https://www.instagram.com/p/DfUf7iQNecP/
 2026-11-05 | nota | descartadas: snapuccino__ y delicomida (tiendas/afiliados), salvi24 (contenido IA apocalíptico), gobasturias (política), empleogijon (institucional), envolvebioembalagens (Brasil), paz_padilla (famosa, publi), turecetanaturales y the_white_method_by_blanca (salud: no seguir), cityblock3d (genérica), bitesofpaula y segoorden_con_mamen (>50k, no seguir)
 2026-11-05 | nota | cierre 2ª ejecución: 12 likes, 5 comentarios, 4 seguimientos, 0 respuestas (sin comentarios recibidos). Sin bloqueos ni límites de Instagram.
+2026-11-06 | nota | cuenta verificada @serenvitta.agua en Chrome «05 | SERENVITTA · PROFESIONAL». Notificaciones: sin avisos de seguridad nuevos (solo el de inicio de sesión de ayer, ya avisado). Revisadas las 12 publicaciones propias: 0 comentarios recibidos
+2026-11-06 | like | vascoasturias | https://www.instagram.com/p/DfWsOU0xgib/
+2026-11-06 | comentario | vascoasturias | https://www.instagram.com/p/DfWsOU0xgib/ | "Garbanzos con bacalao y huevo cocido, un plato de cuchara de los de siempre para el otoño. ¿Desalas tú el bacalao o lo compras ya desalado?"
+2026-11-06 | seguir | vascoasturias | https://www.instagram.com/vascoasturias/
+2026-11-06 | like | natithecook | https://www.instagram.com/p/DfVTUFGxJ7l/
+2026-11-06 | comentario | natithecook | https://www.instagram.com/p/DfVTUFGxJ7l/ | "El remojo de una hora en agua caliente antes del microondas parece el paso que marca la diferencia. ¿Con castañas pequeñas bajas el tiempo o lo dejas igual?"
+2026-11-06 | seguir | natithecook | https://www.instagram.com/natithecook/
+2026-11-06 | like | paisanoconbigote | https://www.instagram.com/p/DfXzyINNDqS/
+2026-11-06 | comentario | paisanoconbigote | https://www.instagram.com/p/DfXzyINNDqS/ | "Arroces valencianos en Pola de Siero con quince años de oficio en Peñíscola detrás, buena noticia para la zona. ¿Probaste algún meloso o fuiste directo a la paella?"
+2026-11-06 | nota | natithecook respondió a nuestro comentario (no se contesta: fuera de autorización)
+2026-11-06 | like | yurena_abriendo_espacios | https://www.instagram.com/p/DfXx61XoBus/
+2026-11-06 | comentario | yurena_abriendo_espacios | https://www.instagram.com/p/DfXx61XoBus/ | "La rotación de izquierda a derecha es un truco muy sencillo para no gastar siempre los mismos trapos. ¿El doblado vertical funciona también con paños de tela gruesa?"
+2026-11-06 | seguir | yurena_abriendo_espacios | https://www.instagram.com/yurena_abriendo_espacios/
+2026-11-06 | like | sartenazosdeamor | https://www.instagram.com/p/DfURDXOi7Q6/
+2026-11-06 | comentario | sartenazosdeamor | https://www.instagram.com/p/DfURDXOi7Q6/ | "Pollo en salsa de almendras, de esos guisos en los que la barra de pan desaparece sola. ¿Le pones unas hebras de azafrán o lo dejas solo con el pimentón?"
+2026-11-06 | like | mercado_artesano_ecologico | https://www.instagram.com/p/DfUYF2ePWxH/
+2026-11-06 | seguir | mercado_artesano_ecologico | https://www.instagram.com/mercado_artesano_ecologico/
+2026-11-06 | like | rapacinarepostera | https://www.instagram.com/p/DfQBf5XgtRI/
+2026-11-06 | like | lena_bahman777 | https://www.instagram.com/p/DfZhylrtgq5/
+2026-11-06 | like | ericlahuerta | https://www.instagram.com/p/DfSlVkogtfp/
+2026-11-06 | like | julyaviles | https://www.instagram.com/p/DfSuRsqO84F/
+2026-11-06 | like | macacastano (con comptoircafe) | https://www.instagram.com/p/DfWw_D4oLzX/
+2026-11-06 | seguir | comptoircafe | https://www.instagram.com/comptoircafe/
+2026-11-06 | nota | descartadas: florgasolera (tienda, Argentina), recetas_carmencita (perfil IA), bio.verax (recetas fit/salud), recetascreativastop (cebo de interacción), davidalonsogijon (posible cuenta política, por si acaso), negroviedofest (institucional), mejoraperitivo (concurso). No seguidas por >50k: paisanoconbigote, rapacinarepostera (169k), ericlahuerta
+2026-11-06 | nota | posible colaboración (para el lunes): comptoircafe, cafetería de especialidad para llevar en Oviedo, 450 seguidores; vende café en grano o molido para casa
+2026-11-06 | nota | cierre: 11 likes, 5 comentarios, 5 seguimientos, 0 respuestas (sin comentarios recibidos). Sin bloqueos ni límites de Instagram. Paso 3 no ejecutado: no es lunes.
