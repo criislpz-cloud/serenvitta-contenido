@@ -83,3 +83,16 @@ Límites diarios (autorización 4 nov 2026): 15 me gusta, 5 seguimientos, 10 res
 2026-11-06 | nota | descartadas: florgasolera (tienda, Argentina), recetas_carmencita (perfil IA), bio.verax (recetas fit/salud), recetascreativastop (cebo de interacción), davidalonsogijon (posible cuenta política, por si acaso), negroviedofest (institucional), mejoraperitivo (concurso). No seguidas por >50k: paisanoconbigote, rapacinarepostera (169k), ericlahuerta
 2026-11-06 | nota | posible colaboración (para el lunes): comptoircafe, cafetería de especialidad para llevar en Oviedo, 450 seguidores; vende café en grano o molido para casa
 2026-11-06 | nota | cierre: 11 likes, 5 comentarios, 5 seguimientos, 0 respuestas (sin comentarios recibidos). Sin bloqueos ni límites de Instagram. Paso 3 no ejecutado: no es lunes.
+2026-11-09 | nota | cuenta verificada @serenvitta.agua en Chrome «05 | SERENVITTA · PROFESIONAL». Notificaciones: sin avisos de seguridad nuevos (solo el de inicio de sesión ya avisado). Respuestas a nuestros comentarios de segoorden_con_mamen, yurena_abriendo_espacios, sartenazosdeamor, natithecook y chupchupchup.recetas (no se contestan: fuera de autorización). Revisadas las 12 publicaciones propias: 0 comentarios recibidos
+2026-11-09 | like | leandroshiryuartes | https://www.instagram.com/p/DfdhoZbCOcF/
+2026-11-09 | comentario | leandroshiryuartes | https://www.instagram.com/p/DfdhoZbCOcF/ | "El Camino Sensorial de Xurbeo con el suelo lleno de hojas tiene que ser precioso en esta época. ¿Es una ruta que se pueda hacer con niños?"
+2026-11-09 | like | soymelissamedina | https://www.instagram.com/p/DfYBvUJoEw4/
+2026-11-09 | comentario | soymelissamedina | https://www.instagram.com/p/DfYBvUJoEw4/ | "Tener el menú pensado, aunque luego se cambie algún día, ya quita mucha carga mental. ¿Lo preparas el domingo para toda la semana o vas por días?"
+2026-11-09 | seguir | soymelissamedina | https://www.instagram.com/soymelissamedina/
+2026-11-09 | like | amarbowl.gijon | https://www.instagram.com/p/DfaTHrpNlji/
+2026-11-09 | comentario | amarbowl.gijon | https://www.instagram.com/p/DfaTHrpNlji/ | "Café de especialidad con obrador propio en Gijón suena a muy buena noticia. ¿Ya tenéis fecha de apertura y en qué zona vais a estar?"
+2026-11-09 | seguir | amarbowl.gijon | https://www.instagram.com/amarbowl.gijon/
+2026-11-09 | nota | ronda INTERRUMPIDA ~12:50 UTC: la ventana de Chrome «05 | SERENVITTA · PROFESIONAL» pasó a tamaño 0x0 (minimizada o PC bloqueado) y las capturas dejaron de responder; no se pudo seguir con clics. Sin bloqueos ni límites de Instagram.
+2026-11-09 | nota | descartadas: jon_camargo_ (Argentina), ideasatrocitos (publi/afiliados), gijonudo (sorteo publi), eldesvandevicensi (contenido IA), piaorganiza (cebo «comenta NAVIDAD»), losviajesdealifog (cebo «GUIA»)
+2026-11-09 | nota | colaboraciones (lunes): propuestas enviadas a Cristina para aprobación: amarbowl.gijon, comptoircafe, cafeteria_san_rafael. Ningún DM enviado.
+2026-11-09 | nota | cierre: 3 likes, 3 comentarios, 2 seguimientos, 0 respuestas (sin comentarios recibidos)
