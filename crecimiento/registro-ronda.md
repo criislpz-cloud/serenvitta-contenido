@@ -96,3 +96,46 @@ Límites diarios (autorización 4 nov 2026): 15 me gusta, 5 seguimientos, 10 res
 2026-11-09 | nota | descartadas: jon_camargo_ (Argentina), ideasatrocitos (publi/afiliados), gijonudo (sorteo publi), eldesvandevicensi (contenido IA), piaorganiza (cebo «comenta NAVIDAD»), losviajesdealifog (cebo «GUIA»)
 2026-11-09 | nota | colaboraciones (lunes): propuestas enviadas a Cristina para aprobación: amarbowl.gijon, comptoircafe, cafeteria_san_rafael. Ningún DM enviado.
 2026-11-09 | nota | cierre: 3 likes, 3 comentarios, 2 seguimientos, 0 respuestas (sin comentarios recibidos)
+2026-11-10 | nota | cuenta verificada @serenvitta.agua en Chrome «05 | SERENVITTA · PROFESIONAL». Notificaciones: sin avisos de seguridad nuevos. Respuestas a nuestros comentarios de leandroshiryuartes, amarbowl.gijon y animalesviajeros (no se contestan: fuera de autorización). 0 comentarios recibidos en nuestras publicaciones (sin notificaciones de comentarios)
+2026-11-10 | like | julyaviles | https://www.instagram.com/p/DfiBojfOa14/
+2026-11-10 | like | asturiasesenciafolixera (con elbombe_parrilla) | https://www.instagram.com/p/DffZR1pR4xj/
+2026-11-10 | seguir | elbombe_parrilla | https://www.instagram.com/elbombe_parrilla/
+2026-11-10 | like | cocinandoconhistorias | https://www.instagram.com/p/DfhXDMJgeFs/
+2026-11-10 | comentario | cocinandoconhistorias | https://www.instagram.com/p/DfhXDMJgeFs/ | "No conocía la historia de las mujeres esperando en el puerto, le da otro encanto a la receta. ¿Con mantequilla normal fundida se deshacen igual o se nota la clarificada?"
+2026-11-10 | like | animalesviajeros | https://www.instagram.com/p/DfhRF3ng6z4/
+2026-11-10 | comentario | animalesviajeros | https://www.instagram.com/p/DfhRF3ng6z4/ | "El Cuto en Siero no lo tenía en el radar como pueblo navideño. ¿Suelen encender las luces ya a primeros de diciembre?"
+2026-11-10 | seguir | animalesviajeros | https://www.instagram.com/animalesviajeros/
+2026-11-10 | like | lucia_casasrurales_cangasdonis | https://www.instagram.com/p/DfeOUNisI1S/
+2026-11-10 | comentario | lucia_casasrurales_cangasdonis | https://www.instagram.com/p/DfeOUNisI1S/ | "Una habitación con baño en cada planta es un acierto para ir dos parejas sin pisarse. ¿La chimenea del salón es de leña?"
+2026-11-10 | seguir | lucia_casasrurales_cangasdonis | https://www.instagram.com/lucia_casasrurales_cangasdonis/
+2026-11-10 | like | celialon | https://www.instagram.com/p/DfjfRoHInEF/
+2026-11-10 | comentario | celialon | https://www.instagram.com/p/DfjfRoHInEF/ | "La fachada verde de Cocheras renovada queda preciosa. ¿Han cambiado también la carta o sigue la de siempre?"
+2026-11-10 | like | avilesfesteja | https://www.instagram.com/p/DfiAcZEs8w4/
+2026-11-10 | like | cajapandoradeaviles | https://www.instagram.com/p/DfhnzdotUGX/
+2026-11-10 | seguir | cajapandoradeaviles | https://www.instagram.com/cajapandoradeaviles/
+2026-11-10 | like | cajapandoradeaviles | https://www.instagram.com/p/Dfcgh1WDSgj/
+2026-11-10 | like | laavilesina | https://www.instagram.com/p/DfRsSKjjZjY/
+2026-11-10 | comentario | laavilesina | https://www.instagram.com/p/DfRsSKjjZjY/ | "Una caja con productos artesanos de Asturias es de esos regalos que siempre aciertan. ¿Se puede meter algún mantecado también en la caja azul?"
+2026-11-10 | seguir | laavilesina | https://www.instagram.com/laavilesina/
+2026-11-10 | like | restaurantepanduku | https://www.instagram.com/p/Dfjg3kGKEWm/
+2026-11-10 | seguir | restaurantepanduku | https://www.instagram.com/restaurantepanduku/
+2026-11-10 | like | terrameiga_pulperias | https://www.instagram.com/p/DfhPXVzid8H/
+2026-11-10 | comentario | terrameiga_pulperias | https://www.instagram.com/p/DfhPXVzid8H/ | "Ese tomate abierto en flor con la aceituna en el centro tiene una pinta tremenda para empezar. ¿El pulpo también entra en el menú del día?"
+2026-11-10 | seguir | terrameiga_pulperias | https://www.instagram.com/terrameiga_pulperias/
+2026-11-10 | like | yurena_abriendo_espacios | https://www.instagram.com/p/DfVBwrFo9H5/
+2026-11-10 | like | fatimalopez_tips | https://www.instagram.com/p/Dfd_665D1lv/
+2026-11-10 | comentario | fatimalopez_tips | https://www.instagram.com/p/Dfd_665D1lv/ | "Lo de cocinar una vez y comer dos parece el más fácil para empezar. ¿La zona de aterrizaje la recomiendas en la entrada o en la cocina?"
+2026-11-10 | like | sanandrespollos | https://www.instagram.com/p/DfhOVSVxSnt/
+2026-11-10 | like | peluqueria_sheila | https://www.instagram.com/p/DfjX2TzxeZJ/
+2026-11-10 | seguir | peluqueria_sheila | https://www.instagram.com/peluqueria_sheila/
+2026-11-10 | like | peluqueria_sheila | https://www.instagram.com/p/DfXFOL5NC6D/
+2026-11-10 | like | restaurantepanduku | https://www.instagram.com/p/DfhGyFPKQhW/
+2026-11-10 | like | miansi_moda | https://www.instagram.com/p/DfbuwPvOMGf/
+2026-11-10 | like | lamadriguera_byhevia | https://www.instagram.com/p/DfiJUsfGT_E/
+2026-11-10 | like | asturianaenruta | https://www.instagram.com/p/DffknqVIZ1P/
+2026-11-10 | like | soyyoucy.asturias | https://www.instagram.com/p/DfcDkjFBFoJ/
+2026-11-10 | like | laavilesina | https://www.instagram.com/p/DfCfUkRjSjO/
+2026-11-10 | like | lucia_casasrurales_cangasdonis | https://www.instagram.com/p/DfXXNpus_S4/
+2026-11-10 | like | terrameiga_pulperias | https://www.instagram.com/p/Dfere3DnT0w/
+2026-11-10 | nota | descartadas: l.abilleiru.alberguerural (León), losviajesdealifog (cebo GUIA), escapadasconpeques (perfil IA), gijonudo (sorteo), cortecero_dietista_auriculo (salud), tu_oasis.es (tienda bienestar), thermomix_angeles (venta de electrodomésticos con demos). No seguidas por >50k o para reservar seguimientos: cocinandoconhistorias (verificada), fatimalopez_tips (158k), celialon (22k)
+2026-11-10 | nota | cierre: 25 likes, 7 comentarios, 8 seguimientos (todos de Asturias), 0 respuestas (sin comentarios recibidos). Seguidores @serenvitta.agua: 0; seguimos a 25 cuentas; devoluciones de seguimiento: 0. Sin bloqueos ni límites de Instagram (dos cortes momentáneos de conexión con la extensión, sin efecto). Paso 3 no ejecutado: no es lunes.
