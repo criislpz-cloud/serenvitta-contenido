@@ -140,3 +140,47 @@ Límites diarios (autorización 4 nov 2026): 15 me gusta, 5 seguimientos, 10 res
 2026-11-10 | nota | descartadas: l.abilleiru.alberguerural (León), losviajesdealifog (cebo GUIA), escapadasconpeques (perfil IA), gijonudo (sorteo), cortecero_dietista_auriculo (salud), tu_oasis.es (tienda bienestar), thermomix_angeles (venta de electrodomésticos con demos). No seguidas por >50k o para reservar seguimientos: cocinandoconhistorias (verificada), fatimalopez_tips (158k), celialon (22k)
 2026-11-10 | nota | cierre: 25 likes, 7 comentarios, 8 seguimientos (todos de Asturias), 0 respuestas (sin comentarios recibidos). Seguidores @serenvitta.agua: 0; seguimos a 25 cuentas; devoluciones de seguimiento: 0. Sin bloqueos ni límites de Instagram (dos cortes momentáneos de conexión con la extensión, sin efecto). Paso 3 no ejecutado: no es lunes.
 2026-11-10 | nota | 2ª ejecución programada (12:11 UTC): límites del día ya cubiertos en la ronda de las 10:23 (25 likes, 7 comentarios, 8 seguimientos), así que no se hicieron más acciones. Cuenta verificada @serenvitta.agua; notificaciones sin novedades ni avisos de seguridad; 0 comentarios nuevos en nuestras publicaciones. Seguidores: 0; seguimos a 25; devoluciones: 0. Capturas de pantalla no respondían (lectura por texto sí).
+2026-11-11 | nota | cuenta verificada @serenvitta.agua en Chrome «05 | SERENVITTA · PROFESIONAL». Notificaciones: sin avisos de seguridad nuevos (solo el de inicio de sesión de hace 5 días, ya avisado). Respuestas a nuestros comentarios de soymelissamedina y cocinandoconhistorias (no se contestan: fuera de autorización). 0 comentarios recibidos en nuestras publicaciones. Hoy hay huelga general (11N): se evitan publicaciones de #gijon/#aviles sobre la huelga
+2026-11-11 | like | pasionesbar.gijon | https://www.instagram.com/p/Dfecfppt2m1/
+2026-11-11 | comentario | pasionesbar.gijon | https://www.instagram.com/p/Dfecfppt2m1/ | "Un café con tostadas y mermelada un domingo en familia es de los mejores planes. ¿La bollería también es vegana o tenéis de las dos opciones?"
+2026-11-11 | seguir | pasionesbar.gijon | https://www.instagram.com/pasionesbar.gijon/
+2026-11-11 | like | coralcoffeegastrochurreria | https://www.instagram.com/p/DfZxX5Cobt7/
+2026-11-11 | comentario | coralcoffeegastrochurreria | https://www.instagram.com/p/DfmPf_pofgR/ | "No sabía que hoy era el día del churro, buena excusa para un chocolate con este frío. ¿Los churros salados de qué los hacéis?"
+2026-11-11 | like | coralcoffeegastrochurreria | https://www.instagram.com/p/DfmPf_pofgR/
+2026-11-11 | seguir | coralcoffeegastrochurreria | https://www.instagram.com/coralcoffeegastrochurreria/
+2026-11-11 | like | lafelguera_langreo | https://www.instagram.com/p/DfmLcS3OLR5/
+2026-11-11 | comentario | lafelguera_langreo | https://www.instagram.com/p/DfmLcS3OLR5/ | "El ladrillo con los marcos verdes de las ventanas le da mucha personalidad al edificio. ¿Se sabe quién fue el arquitecto?"
+2026-11-11 | like | cocoacookiesobrador | https://www.instagram.com/p/DfkAT64oekk/
+2026-11-11 | seguir | cocoacookiesobrador | https://www.instagram.com/cocoacookiesobrador/
+2026-11-11 | like | casafarponasador | https://www.instagram.com/p/Dfj16maMgZG/
+2026-11-11 | comentario | casafarponasador | https://www.instagram.com/p/Dfj16maMgZG/ | "Esos callos con pan al lado están pidiendo mojar sin prisa. ¿Los tenéis en carta todo el año o solo en temporada de frío?"
+2026-11-11 | like | restaurantesidreriapolonorte | https://www.instagram.com/p/DfkQbRZxXwE/
+2026-11-11 | comentario | restaurantesidreriapolonorte | https://www.instagram.com/p/DfkQbRZxXwE/ | "Abrir la alcachofa en flor y rematarla con la papada convence hasta a quien no es muy de verduras. ¿La hacéis a la plancha o frita?"
+2026-11-11 | seguir | restaurantesidreriapolonorte | https://www.instagram.com/restaurantesidreriapolonorte/
+2026-11-11 | like | matricula_de_honor_laviana_ | https://www.instagram.com/p/DfmXOoco3ik/
+2026-11-11 | comentario | matricula_de_honor_laviana_ | https://www.instagram.com/p/DfmXOoco3ik/ | "Una ludoteca por las mañanas con grupos tan reducidos es un apaño para muchas familias de la zona. ¿Desde qué edad pueden ir los peques?"
+2026-11-11 | seguir | matricula_de_honor_laviana_ | https://www.instagram.com/matricula_de_honor_laviana_/
+2026-11-11 | like | segoorden_con_mamen | https://www.instagram.com/p/Dfer6looakm/
+2026-11-11 | like | yurena_abriendo_espacios | https://www.instagram.com/p/Dfh_fAXiCDQ/
+2026-11-11 | like | natithecook | https://www.instagram.com/p/DfmdmykxcTS/
+2026-11-11 | like | jinashcake | https://www.instagram.com/p/DfkOihjoC8F/
+2026-11-11 | comentario | jinashcake | https://www.instagram.com/p/DfkOihjoC8F/ | "Las abejitas con las flores rojas sobre los dos pisos quedan preciosas para un primer cumpleaños. ¿La cobertura es de crema de mantequilla?"
+2026-11-11 | seguir | jinashcake | https://www.instagram.com/jinashcake/
+2026-11-11 | like | blacklionbox | https://www.instagram.com/p/Dfh_RcojImG/
+2026-11-11 | seguir | blacklionbox | https://www.instagram.com/blacklionbox/
+2026-11-11 | like | kaosurbannail | https://www.instagram.com/p/DfkOiZls9UT/
+2026-11-11 | seguir | kaosurbannail | https://www.instagram.com/kaosurbannail/
+2026-11-11 | like | pasionesbar.gijon | https://www.instagram.com/p/De9KazBNZtx/
+2026-11-11 | like | restaurantesidreriapolonorte | https://www.instagram.com/p/DfXHVEqR2ab/
+2026-11-11 | like | kaosurbannail | https://www.instagram.com/p/DfK6YYuB9To/
+2026-11-11 | like | natithecook | https://www.instagram.com/p/DffmgX4xam2/
+2026-11-11 | like | segoorden_con_mamen | https://www.instagram.com/p/DffnxjfCAZ2/
+2026-11-11 | like | soymelissamedina | https://www.instagram.com/p/DfQPzRKIlUU/
+2026-11-11 | like | ana_santosnz | https://www.instagram.com/p/DfjuvA2NG-p/
+2026-11-11 | like | yurena_abriendo_espacios | https://www.instagram.com/p/DfaLHEzo9lI/
+2026-11-11 | like | cocoacookiesobrador | https://www.instagram.com/p/DfmQiR8o7Oa/
+2026-11-11 | like | lafelguera_langreo | https://www.instagram.com/p/DfUVxKTDuAf/
+2026-11-11 | like | blacklionbox | https://www.instagram.com/p/DeJ_OGLDJhm/
+2026-11-11 | nota | descartadas: publicaciones de #gijon/#oviedo/#aviles sobre la huelga general del 11N y el luto en Oviedo (temas sensibles/políticos), yaya.remedios (perfil IA), artemisaestetica1 (contenido IA), glee.plan (app), guzman_del_pino (inmobiliaria con cebo «comenta»). No seguida por >5k (se prioriza cuentas pequeñas): casafarponasador (7,3k). Nota: en el reel de segoorden_con_mamen la cabecera mostraba «Seguir» aunque figura como seguida el 4-6 nov; no se ha vuelto a seguir
+2026-11-11 | nota | respuestas recibidas a nuestros comentarios: casafarponasador («todo el año tenemos este plato en la carta»), soymelissamedina, cocinandoconhistorias (no se contestan: fuera de autorización)
+2026-11-11 | nota | cierre: 25 likes, 7 comentarios, 8 seguimientos (comentarios y seguimientos 100 % Asturias; likes 18 Asturias / 7 familias y hogar de España), 0 respuestas (sin comentarios recibidos). Seguidores @serenvitta.agua: 0; seguimos a 33 cuentas; devoluciones de seguimiento: 0. Sin bloqueos ni límites de Instagram. Paso 3 no ejecutado: no es lunes.
